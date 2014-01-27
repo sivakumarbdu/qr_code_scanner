@@ -1,0 +1,20 @@
+---
+extensions:
+- json
+- Barcode
+- uhs
+- fileutils
+name: qrCode scanner
+encrypt_database: 1
+android:
+  version: 2.3.3
+  android_title: 0
+  orientation: landscape
+applog: rholog.txt
+version: 1.5.085
+vendor: kutirtech
+sdkversion: 3.3.3
+app_type: rhoelements
+capabilities:
+- camera
+sdk: 
